@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/miel-d-or/static/css/main.5fb13ece.css",
+    "main.js": "/miel-d-or/static/js/main.ec0f7bae.js",
+    "static/js/453.7f78b7f5.chunk.js": "/miel-d-or/static/js/453.7f78b7f5.chunk.js",
+    "index.html": "/miel-d-or/index.html",
+    "main.5fb13ece.css.map": "/miel-d-or/static/css/main.5fb13ece.css.map",
+    "main.ec0f7bae.js.map": "/miel-d-or/static/js/main.ec0f7bae.js.map",
+    "453.7f78b7f5.chunk.js.map": "/miel-d-or/static/js/453.7f78b7f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fb13ece.css",
+    "static/js/main.ec0f7bae.js"
+  ]
+}
